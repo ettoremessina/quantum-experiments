@@ -1,10 +1,5 @@
 qreg q[5];
 creg c[5];
-reset q[0];
-reset q[1];
-reset q[2];
-reset q[3];
-reset q[4];
 
 h q[4];
 h q[0];

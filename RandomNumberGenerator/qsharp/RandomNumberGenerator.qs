@@ -11,12 +11,6 @@ namespace ComputationalMindset.QuantumExperiments
     {
         using (q = Qubit[5])
         {
-            Reset(q[0]);
-            Reset(q[1]);
-            Reset(q[2]);
-            Reset(q[3]);
-            Reset(q[4]);
-
             H(q[0]);
             H(q[1]);
             H(q[2]);
