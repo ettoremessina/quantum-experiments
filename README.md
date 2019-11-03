@@ -6,11 +6,12 @@ This program shows how to generate a random integer number using the unpredictab
 
 It contains the same program written in 3 different languages:
 
-###QASM
-RandomNumberGenerator/qasm folder contains the qasm script designed to be executed on 'IBM Q Experience' (https://quantum-computing.ibm.com/).
+-QASM
+[RandomNumberGenerator/qasm](./RandomNumberGenerator/qasm) folder contains the qasm script designed to be imported and executed on IBM Q Experience Circuit Composer panel (https://quantum-computing.ibm.com/composer).
 
-###Python + IBM Qiskit
-RandomNumberGenerator/qiskit folder contains the Python fragement program designed to be executed inside an quantum computing jupyter notebooks always on 'IBM Q Experience' (https://quantum-computing.ibm.com/).
+-Python + IBM Qiskit
+[RandomNumberGenerator/qiskit](./RandomNumberGenerator/qiskit) folder contains the Python Qiskit Notebook file designed to be imported and executed on IBM Q Experience Qiskit Notebooks panel (https://quantum-computing.ibm.com/jupyter).
 
-###Microsoft Q# for .NET Core
-RandomNumberGenerator/qsharp folder contains the q# code (plus a c# starter code) for Microsoft .NET Core platform.
+-Microsoft Q# for .NET Core
+[RandomNumberGenerator/qsharp](./RandomNumberGenerator/qsharp) folder contains the Q# code (plus a C# starter code) for Microsoft .NET Core platform.
+

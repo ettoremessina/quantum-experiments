@@ -8,5 +8,5 @@ The file [RandomNumberGenerator.qasm](./RandomNumberGenerator.qasm) is the QASM 
 
 ![Circuit](./qc-rndnmgen-circuit.png?raw=true)
 
-To execute it import the file [RandomNumberGenerator.qasm](./RandomNumberGenerator.qasm) into your IBM Q Esperience account under Circuit Composer panel (https://quantum-computing.ibm.com/composer) and run it.
+To execute it import the file [RandomNumberGenerator.qasm](./RandomNumberGenerator.qasm) into your IBM Q Experience account under Circuit Composer panel (https://quantum-computing.ibm.com/composer) and run it.
 
