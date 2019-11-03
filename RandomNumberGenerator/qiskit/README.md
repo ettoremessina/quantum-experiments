@@ -5,7 +5,7 @@ This example demonstrates the generation of an integer random number (from 0 to 
 
 ## Circuit equivalent code ##
 The file RandomNumberGenerator.py is the minimalist code that implement the following circuit:
-![Circuit](./iqc-rndnmgen-circuit.png)
+![Circuit](./qc-rndnmgen-circuit.png?raw=true)
 
 
 ## Full working Qiskit Notebook file ##
