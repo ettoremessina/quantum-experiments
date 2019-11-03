@@ -11,5 +11,5 @@ The file [RandomNumberGenerator.py](./RandomNumberGenerator.py) is the Python co
 
 ## Full working Qiskit Notebook file ##
 
-To execute it import the file [Random Number Generator.ipynb](./Random%20Number%20Generator.ipynb) into your IBQ Q Esperience account under Qiskit Notebooks panel (https://quantum-computing.ibm.com/jupyter) and run it.
+To execute it import the file [Random Number Generator.ipynb](./Random%20Number%20Generator.ipynb) into your IBM Q Esperience account under Qiskit Notebooks panel (https://quantum-computing.ibm.com/jupyter) and run it.
 
