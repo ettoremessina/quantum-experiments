@@ -18,7 +18,7 @@ namespace ComputationalMindset.QuantumExperiments
             var qDevice = new QuantumSimulator(throwOnReleasingQubitsNotInZeroState: true);
             for (int i = 0; i < shots; ++i)
             {
-                var (m0, m1, m2, m3, m4) = CascadeAdamardGates.Run(qDevice).Result;
+                var (m0, m1, m2, m3, m4) = CascadeHadamardGates.Run(qDevice).Result;
                 int rnd =
                       ((m0 == Result.One ? 1 : 0) << 0)
                     + ((m1 == Result.One ? 1 : 0) << 1)

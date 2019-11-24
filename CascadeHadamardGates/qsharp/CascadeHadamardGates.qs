@@ -7,7 +7,7 @@ namespace ComputationalMindset.QuantumExperiments
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Measurement;
 
-    operation CascadeAdamardGates() : (Result, Result, Result, Result, Result)
+    operation CascadeHadamardGates() : (Result, Result, Result, Result, Result)
     {
         using (q = Qubit[5])
         {
