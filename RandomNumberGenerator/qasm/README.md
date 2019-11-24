@@ -1,9 +1,9 @@
-﻿# Random Number Generator #
+﻿# Random Number Generator
 
 This example demonstrates the generation of an integer random number (from 0 to 31) on IBM Q Experience platform using QASM.
 
 
-## Circuit equivalent code ##
+## Circuit equivalent code
 The file [RandomNumberGenerator.qasm](./RandomNumberGenerator.qasm) is the QASM code that implements the following circuit:
 
 ![Circuit](./qc-rndnmgen-circuit.png?raw=true)
