@@ -11,14 +11,13 @@ namespace ComputationalMindset.QuantumExperiments
     {
         using (q = Qubit[5])
         {
+            H(q[0]);
             H(q[1]);
-            H(q[2]);
+            H(q[1]);
+            X(q[2]);
+            X(q[3]);
             H(q[3]);
-            H(q[4]);
-            H(q[2]);
-            H(q[3]);
-            H(q[4]);
-            H(q[3]);
+            X(q[4]);
             H(q[4]);
             H(q[4]);
 
@@ -29,3 +28,4 @@ namespace ComputationalMindset.QuantumExperiments
         }
     }
 }
+
