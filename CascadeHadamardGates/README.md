@@ -1,6 +1,6 @@
 # Cascade Hadamard Gates
 
-This example demonstrates the behaviour of a cascade of Hadamard gates.
+This example demonstrates the behaviour of a cascade of Hadamard gates in according with the invertibility of adjoint matrix that models the Hadamard gate.
 
 It contains the same program written in 3 different languages:
 
