@@ -1,6 +1,8 @@
 # Random Number Generator
 This program shows how to generate a random integer number using the unpredictability of the measure of a qubit in superposition state because it is a form of natural randomness.
 
+Please visit [here](https://computationalmindset.com/en/quantum-computing/random-number-generation.html) for more information.
+
 It contains the same program written in 3 different languages:
 
 ## QASM

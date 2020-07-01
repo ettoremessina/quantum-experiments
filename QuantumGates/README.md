@@ -4,4 +4,5 @@ This folder contains experiements on some quantum gates, their low level impleme
 ## NOT and C-NOT Gates 
 [NotCNotGates](./NotCNotGates) folder contains experiments about Pauli-X gate (called also Quantum NOT) and C-NOT (Controlled NOT) gate.
 
+Please visit [here](https://computationalmindset.com/en/quantum-computing/not-cnot-operators.html) for more information.
 

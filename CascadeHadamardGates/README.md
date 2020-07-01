@@ -2,6 +2,8 @@
 
 This example demonstrates the behaviour of a cascade of Hadamard gates in according with the invertibility of adjoint matrix that models the Hadamard gate.
 
+Please visit [here](https://computationalmindset.com/en/quantum-computing/hadamard-gate-cascade.html) for more information.
+
 It contains the same program written in 3 different languages:
 
 ## QASM
